@@ -511,12 +511,6 @@ Sithyphus:
   first-name: Jorge
   last-name: Barrios
   pronouns: he/him
-Sulstice:
-  country: USA
-  email: sharifsuliman1@gmail.com
-  first-name: Suliman
-  last-name: Sharif
-  twitter: Suliman-Sharif-6
 TKlingstrom:
   affiliation: Swedish University of Agricultural Sciences
   bio: 'Biotechnician turned bioinformatician turned animal scientist trying to standardise
@@ -1532,7 +1526,7 @@ joelostblom:
   country: Canada
   email: joel.ostblom@gmail.com
   expertise:
-  - Static and interactive data visualization
+  - Static  and interactive data visualization
   - Introductory data science
   - Reproducible analysis workflows
   - Image analysis
@@ -2281,6 +2275,13 @@ paulineligonie:
   first-name: Pauline
   last-name: Ligonie
   twitter: PaulineLigonie
+paulowoicho:
+  country: Nigeria
+  email: paulowoicho@gmail.com
+  first-name: Paul
+  last-name: Owoicho
+  pronouns: he/him
+  twitter: N/A  
 paulvill:
   bio: 'Paul is group Leader in Machine Leader and Developmental Biology at the Turing
     Center for
@@ -2306,13 +2307,6 @@ paulvill:
   pronouns: he/him
   twitter: paulvilloutreix
   website: https://paulcinq.wordpress.com
-pgadige:
-  country: India
-  email: poojagadige@gmail.com
-  first-name: Pooja
-  last-name: Gadige
-  pronouns: she/her
-  twitter: algurlrhythm
 pherterich:
   bio: 'Patricia is currently a Research Data Specialist working at the Digital
 
